@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: ''
+description: 
 logo: 
 teaser: 
 locale: en
