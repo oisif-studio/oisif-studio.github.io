@@ -1,9 +1,9 @@
 ---
-layout: home 
-permalink: /
-title: "Home"
+layout: default 
+permalink: /blog
+title: "Blog"
 image:
-  feature: home.jpg
+  feature: blog.jpg
 ---
 
 <div class="tiles">
