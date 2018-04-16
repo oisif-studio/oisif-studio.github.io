@@ -5,6 +5,10 @@ collections:
   posts:
     title: Posts
     output: true
+    date: 2018-04-18 00:00:00.000000000 Z
+    image:
+    - feature: 
+      teaser: 
   uploads:
     title: Uploads
     output: true
