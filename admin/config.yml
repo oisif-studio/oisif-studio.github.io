@@ -15,7 +15,7 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "article"}
-      - {label: "Category", name: "category", widget: "hidden", default: "article"}
+      - {label: "Categories", name: "categories", widget: "hidden", default: "article"}
       - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mma"}
       - label: "Tags"
         name: "tags"
@@ -36,7 +36,7 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "project"}
-      - {label: "Category", name: "category", widget: "hidden", default: "project"}
+      - {label: "Categories", name: "categories", widget: "hidden", default: "project"}
       - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mma"}
       - label: "Tags"
         name: "tags"
@@ -57,7 +57,7 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "resource"}
-      - {label: "Category", name: "category", widget: "hidden", default: "resource"}
+      - {label: "Categories", name: "categories", widget: "hidden", default: "resource"}
       - label: "Tags"
         name: "tags"
         widget: "list"

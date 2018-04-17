@@ -7,7 +7,7 @@ image:
 ---
 
 <div class="tiles">
-{% for post in site.category.resource %}
+{% for post in site.categories.resource %}
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
