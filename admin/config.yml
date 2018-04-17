@@ -14,24 +14,32 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "article"}
       - {label: "Titre", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mma"}
       - {label: "Excerpt", name: "excerpt", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
     meta:
       - {label: "SEO Description", name: "description", widget: "text"}
 
-  - name: "authors"
-    label: "Authors"
-    file: "_data/authors.yml"
-    description: "Author descriptions"
-    fields:
-      - name: authors
-        label: Authors
-        label_singular: "Author"
-        widget: list
+  - name: "settings"
+    label: "Settings"
+    delete: false # Prevent users from deleting documents in this collection
+    editor:
+      preview: false
+    files:
+      - name: "authors"
+        label: "Authors"
+        file: "_data/authors.yml"
+        description: "Author descriptions"
         fields:
-          - {label: "Name", name: "name", widget: "string"}
-          - {label: "Role", name: "role", widget: "string"}
-          - {label: "Website", name: "website", widget: "string"}
-          - {label: "Description", name: "description", widget: "markdown"}
+          - name: authors
+            label: Authors
+            label_singular: "Author"
+            widget: list
+            fields:
+              - {label: "Name", name: "name", widget: "string"}
+              - {label: "Role", name: "role", widget: "string"}
+              - {label: "Website", name: "website", widget: "string"}
+              - {label: "Description", name: "description", widget: "markdown"}
