@@ -1,15 +1,15 @@
 backend:
-  name: github
-  repo: oisif-studio/oisif-studio.github.io
-  branch: master
+  name: "github"
+  repo: "oisif-studio/oisif-studio.github.io"
+  branch: "master"
 
-publish_mode: editorial_workflow
+publish_mode: "editorial_workflow"
 
 media_folder: "images"
 
 collections:
-  - name: "articles"
-    label: "article"
+  - label: "Articles"
+    name: "article"
     folder: "_posts/blog"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
@@ -25,14 +25,16 @@ collections:
 
   - label: "Settings"
     name: "settings"
-    delete: false
     files:
       - label: "Team"
         name: "team"
         file: "_data/team.yml"
-        widget: list
         fields:
-          - {label: "Name", name: "name", widget: "string"}
-          - {label: "Role", name: "role", widget: "string"}
-          - {label: "Photo", name: "photo", widget: "image"}
-          - {label: "Website", name: "website", widget: "string"}
+          - label: "Persons"
+            name: "person"
+            widget: "list"
+            fields:
+              - {label: "Name", name: "name", widget: "string"}
+              - {label: "Position", name: "position", widget: "string"}
+              - {label: "Photo", name: "photo", widget: "image"}
+              - {label: "Website", name: "website", widget: "string"}
