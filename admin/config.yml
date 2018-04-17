@@ -29,13 +29,9 @@ collections:
       - label: "Team"
         name: "team"
         file: "_data/team.yml"
+        widget: list
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Intro, name: intro, widget: markdown}
-          - label: Team
-            name: team
-            widget: list
-            fields:
-              - {label: Name, name: name, widget: string}
-              - {label: Position, name: position, widget: string}
-              - {label: Photo, name: photo, widget: image}
+          - {label: "Name", name: "name", widget: "string"}
+          - {label: "Role", name: "role", widget: "string"}
+          - {label: "Photo", name: "photo", widget: "image"}
+          - {label: "Website", name: "website", widget: "string"}
