@@ -12,7 +12,7 @@ description: ''
 logo: 
 teaser: 
 locale: en
-url: www.oisif.fr
+url: 
 feed:
   path: atom.xml
 sass:
