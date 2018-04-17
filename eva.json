@@ -1,0 +1,242 @@
+{  
+   "storymap":{  
+      "attribution":"",
+      "language":"fr",
+      "call_to_action":true,
+      "zoomify":false,
+      "slides":[  
+         {  },
+         {  
+            "date":"",
+            "media":{  
+               "url":"",
+               "caption":"",
+               "credit":"Illustration de Lucien Coycault, bas\u00e9e sur une photo d'Elena"
+            },
+            "location":{  
+               "lat":48.92786259999999,
+               "line":true,
+               "lon":2.3910946999999396,
+               "zoom":4
+            },
+            "background":{  
+
+            },
+            "text":{  
+               "headline":"",
+               "text":"<span><p><b>Caf\u00e9 Le Parigo, porte de la Chapelle (Paris 18e) </b>- \u00c0 l\u2019int\u00e9rieur du bar vide, ce 14 f\u00e9vrier, ses trois enfants courent partout en bousculant le gar\u00e7on de caf\u00e9. Il leur reste un peu de chocolat chaud au coin des l\u00e8vres. Elena a 28 ans, mais elle en para\u00eet facilement 40. Ses cheveux sont attach\u00e9s sous un foulard. Elle porte un long manteau noir et son regard est pr\u00e9occup\u00e9.</p><p> </p><p>Elle est venue voir Nathalie Jantet, b\u00e9n\u00e9vole au Secours Catholique, qui l\u2019accompagne depuis octobre 2016. Dans un fran\u00e7ais h\u00e9sitant, la jeune Rom raconte \u00eatre venue avec sa s\u0153ur et revient sur sa vie pass\u00e9e en Espagne avec son fils, Darius, et son mari, Adrian :</p><p> </p><p><i>\u00ab On vivait de d\u00e9brouille et de petits boulots. \u00bb</i></p><p> </p><p>Elle explique avoir voulu trouver une stabilit\u00e9 en France. Elle retrace son parcours depuis son arriv\u00e9e, il y a huit ans. La jeune femme nous parle de sa famille, de la naissance de ses enfants, des plats qu\u2019elle aime cuisiner, de son mari actuellement en prison. Parfois, elle se souvient mal des dates, intervertit les lieux. Nathalie Jantet, qui conna\u00eet tous les bidonvilles d\u2019\u00cele-de-France et le ballottement incessant de leurs habitants, l\u2019aide \u00e0 reconstruire le puzzle. &nbsp;</p><p> </p><p>Apr\u00e8s plusieurs entretiens et gr\u00e2ce aux ressources de Rom Europe, du Secours Catholique et de la Ligue des droits de l\u2019Homme, nous avons reconstitu\u00e9 le parcours d\u2019Elena.</p><p> </p><p>Voici son histoire.</p><div><span><br></span></div></span>"
+            }
+         },
+         {  
+            "date":"",
+            "media":{  
+               "url":"//uploads.knightlab.com/storymapjs/10fa10420e0de7aff8c346304986acb5/bidonville-s/_images/salengro.jpg",
+               "caption":"",
+               "credit":"Le bidonville avant l'expulsion de 2013 / Google Earth Pro"
+            },
+            "location":{  
+               "lat":48.9354866,
+               "line":true,
+               "lon":2.3873089999999593,
+               "zoom":12
+            },
+            "background":{  
+
+            },
+            "text":{  
+               "headline":"AV. ROGER SALENGRO, LA COURNEUVE",
+               "text":"<p><strong>2011-2013</strong><br></p><p>\u00c0 leur arriv\u00e9e, Elena et Adrian construisent leur premi\u00e8re baraque dans ce bidonville de l\u2019avenue Roger Salengro, \u00e0 La Courneuve (93). Sur ce terrain bois\u00e9 nich\u00e9 entre l\u2019autoroute et l\u2019avenue, ils retrouvent une partie de leur famille. Plus de 300 personnes vivent sur le platz.&nbsp;\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<span>\u00ab&nbsp;C<em>\u2019est l\u2019un des plus gros dans lequel j\u2019ai\nv\u00e9cu&nbsp;\u00bb</em>,&nbsp;</span>&nbsp;raconte Elena. En 2011, elle accouche de Beti, son quatri\u00e8me enfant. La petite fille y fait ses premiers pas. Ils y restent jusqu\u2019en d\u00e9cembre 2013, date de leur premi\u00e8re expulsion.</p><p> </p><p>Comme \u00e0 chaque fois, un huissier se d\u00e9place et pr\u00e9vient les habitants du camp quelques jours avant. Sans pr\u00e9ciser la date exacte de l\u2019expulsion. La famille d\u2019Elena, comme d'autres, quitte les lieux avant que la police n\u2019arrive.&nbsp;\u00ab&nbsp;<em>On a peur d\u2019\u00eatre s\u00e9par\u00e9s&nbsp;\u00bb, </em>explique-t-elle.<em>&nbsp;</em><span>Elles craignent aussi les \u00ab&nbsp;<em>distributions&nbsp;\u00bb</em></span> d\u2019Obligations de\nquitter le territoire Fran\u00e7ais (OQTF), quasi-syst\u00e9matiques il y a encore\nquelques ann\u00e9es, selon Nathalie Jantet.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p> </p><p></p><p>Les autorit\u00e9s affr\u00e8tent des bus lors de chaque expulsion et placent les familles dans diff\u00e9rents h\u00f4tels, parfois tr\u00e8s \u00e9loign\u00e9s les uns des autres.</p>"
+            }
+         },
+         {  
+            "date":"",
+            "media":{  
+               "url":"//uploads.knightlab.com/storymapjs/10fa10420e0de7aff8c346304986acb5/bidonville-s/_images/cosmonautes 2012-1.png",
+               "caption":"",
+               "credit":"L'entr\u00e9e du bidonville des cosmonautes en 2014 / Google Street View"
+            },
+            "location":{  
+               "lat":48.9338555,
+               "line":true,
+               "lon":2.3769062000000076,
+               "zoom":1
+            },
+            "text":{  
+               "headline":"Cosmonautes, Saint-Denis",
+               "text":"<p><strong>2011-2013</strong><br></p><p>Elena, Adrian, Darius et Beti se r\u00e9fugient alors dans un autre platz, situ\u00e9 non loin : les Cosmonautes, du nom de la station de tramway \u00e0 Saint-Denis (93), pr\u00e8s de la cit\u00e9 des 4 000. Dans ce bidonville, la famille s'agrandit. <span>\u00ab\u2009<em>Ana est n\u00e9e en 2013\u2009</em>\u00bb</span>, dit-elle simplement. Pour survivre Elena fait la manche, avec Darius et Beti quand elle peut. \u00c7a rapporte plus. Les enfants ne sont pas scolaris\u00e9s. Adrian, son mari, revend de la ferraille trouv\u00e9e dans les rues et chantiers.</p><p> </p><p>Ils restent deux ans avant d\u2019\u00eatre de nouveau expuls\u00e9s.&nbsp;<span>\u00ab <em>La petite n\u2019avait que quelques mois</em></span> \u00bb,&nbsp;raconte Elena. Sans attendre d\u2019\u00eatre relog\u00e9s par\nles services sociaux, ils rejoignent une autre communaut\u00e9.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><span>&nbsp;<br></span></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p></p><p> </p>"
+            }
+         },
+         {  
+            "date":"",
+            "media":{  
+               "url":"<iframe frameborder=\"0\" class=\"juxtapose\" width=\"100%\" height=\"596\" src=\"https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=73f500fc-422c-11e8-b263-0edaf8f81e27\"></iframe>",
+               "caption":"",
+               "credit":"Pour voir l\u2019\u00e9volution du bidonville d\u00e9placez la barre au milieu de l\u2019image"
+            },
+            "location":{  
+               "lat":48.9095969,
+               "line":true,
+               "lon":2.3265327000000298,
+               "zoom":12
+            },
+            "text":{  
+               "headline":"Rue Ardoin, Saint-Ouen",
+               "text":"<span><p><strong>2015-2016</strong></p><p>Direction Saint-Ouen (93), rue Ardouin. Un platz de plus de 200 personnes qui se d\u00e9mant\u00e8le et se reconstruit r\u00e9guli\u00e8rement depuis 2008. \u00c0 leur arriv\u00e9e, pour construire leur baraque, ils r\u00e9cup\u00e8rent des t\u00f4les, fen\u00eatres et portes, sur les trottoirs ou dans les poubelles de la commune. <span>\u00ab&nbsp;<em>On a mis deux jours \u00e0 r\u00e9unir le mat\u00e9riel,\nj\u2019ai ensuite mis des tissus color\u00e9s et des tapis sur les murs&nbsp;\u00bb</em></span>, explique Elena. Cette isolation de fortune permet de maintenir la chaleur du po\u00eale, pos\u00e9 sur des cartons dans un coin de la cahute. Ils se chauffent avec des morceaux de bois r\u00e9cup\u00e9r\u00e9s ici et l\u00e0. Certains, recouverts de vernis, d\u00e9gagent une odeur toxique en se consumant. &nbsp;</p><p> </p><p></p><p>En 2016, elle trouve un job de femme de m\u00e9nage \u00e0 l\u2019Association des femmes.&nbsp;\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<span>\u00ab<em>Pour quelques heures de m\u00e9nage, je gagnais\n80 euros.\u2009</em>\u00bb&nbsp;</span><em>&nbsp;</em>Un plan tr\u00e8s temporaire, mais qui lui permet d\u2019arrondir la fin du mois. Un jour d\u2019octobre 2016, la nouvelle tombe : le platz va \u00eatre \u00e9vacu\u00e9.</p></span>"
+            }
+         },
+         {  
+            "date":"",
+            "media":{  
+               "url":"<iframe frameborder=\"0\" class=\"juxtapose\" width=\"100%\" height=\"595\" src=\"https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=ddd0739c-422e-11e8-b263-0edaf8f81e27\"></iframe>",
+               "caption":"",
+               "credit":"Pour voir l\u2019\u00e9volution du bidonville d\u00e9placez la barre au milieu de l\u2019image"
+            },
+            "location":{  
+               "lat":48.89815410000001,
+               "line":true,
+               "lon":2.3493482000000085,
+               "zoom":1
+            },
+            "text":{  
+               "headline":"Boulevard Ney, Paris",
+               "text":"<p><strong>Octobre 2016 - F\u00e9vrier 2017</strong><br></p><p>Elena et sa famille trouvent refuge boulevard Ney \u00e0 Paris (75), dans un bidonville install\u00e9 sur les rails de la petite ceinture. Nouvelle baraque, nouvelle vie.</p><p> </p><p>Depuis leur arriv\u00e9e en France, c\u2019est la premi\u00e8re fois que Darius et Beti vont \u00e0 l\u2019\u00e9cole. Des jeunes en service civique de l\u2019association Les enfants du canal accompagnent la famille dans les d\u00e9marches administratives. Les deux enfants sont scolaris\u00e9s, douze heures par semaine, en Unit\u00e9 p\u00e9dagogique pour \u00e9l\u00e8ves allophones arrivant (UP2A), \u00e0 l\u2019\u00e9cole \u00e9l\u00e9mentaire de Torcy, dans le 18\u00e8me. Ils y apprennent le fran\u00e7ais. Le reste du temps, ils sont en classe avec des enfants de leur \u00e2ge. Aujourd\u2019hui, Darius joue souvent le r\u00f4le d\u2019interpr\u00e8te quand sa m\u00e8re a du mal \u00e0 se faire comprendre.</p><p> </p><p>En f\u00e9vrier 2017 - Elena s\u2019en souvient bien,&nbsp;\u00ab&nbsp;<em>la baraque a br\u00fbl\u00e9&nbsp;\u00bb.&nbsp;</em><span>Les\nflammes ont ravag\u00e9 une grande partie du camp, \u00ab&nbsp;<em>on a tout perdu&nbsp;\u00bb</em>. Ils sont <a href=\"https://www.francetvinfo.fr/faits-divers/un-incendie-et-des-explosions-dans-un-campement-du-18e-arrondissement-de-paris-pas-de-victime_2069027.html\" target=\"_blank\" rel=\"nofollow\">\u00e9vacu\u00e9s</a>.</span></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p></p><p> </p>"
+            }
+         },
+         {  
+            "date":"",
+            "media":{  
+               "url":"//uploads.knightlab.com/storymapjs/10fa10420e0de7aff8c346304986acb5/bidonville-s/_images/campanille.jpg",
+               "caption":"",
+               "credit":"L'h\u00f4tel Campanil de Saint-Denis / Google Street View"
+            },
+            "location":{  
+               "lat":48.9284543,
+               "line":true,
+               "lon":2.3397935000000416,
+               "zoom":1
+            },
+            "text":{  
+               "headline":"Hotel Campanil, Saint-Denis",
+               "text":"<span><p><strong>F\u00e9vrier 2017</strong></p><p></p><p><span>Les autorit\u00e9s relogent alors les habitants du platz dans des h\u00f4tels. Elena comprend vite que cet h\u00e9bergement provisoire est une fausse bonne nouvelle. Loin de leur communaut\u00e9 et de leurs proches, ils se retrouvent vraiment seuls. Ils n\u2019ont plus rien pour cuisiner. Seule consolation, \u00e0 Saint-Denis (93), Darius et Beti peuvent encore aller en classe... avec 40 minutes de transport en commun. Mais quelques jours plus tard et sans rien leur expliquer, les autorit\u00e9s les d\u00e9placent beaucoup plus loin, \u00e0 Aulnay-sous-Bois (93).</span></p></span>"
+            }
+         },
+         {  
+            "date":"",
+            "media":{  
+               "url":"//uploads.knightlab.com/storymapjs/10fa10420e0de7aff8c346304986acb5/bidonville-s/_images/f1_aulney.jpg",
+               "caption":"",
+               "credit":"L'h\u00f4tel F1 d'Aulnay-Sous-Bois / Google Street View"
+            },
+            "location":{  
+               "lat":48.95863900000001,
+               "line":true,
+               "lon":2.4658159000000524,
+               "zoom":1
+            },
+            "text":{  
+               "headline":"Hotel F1, AulnAy-sous-bois",
+               "text":"<span><p><strong>Mars 2017</strong></p><p></p><p>Encore plus \u00e9loign\u00e9s de leurs proches et de l\u2019\u00e9cole, Elena et sa famille ne restent que quelques semaines dans cet h\u00f4tel. Pour emmener les enfants en classe&nbsp;\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<span>\u00ab\u2009<em>il fallait prendre le bus pendant une heure\u2009</em>\u00bb</span>, t\u00e9moigne-t-elle. En comptant tous les aller-retours, Elena passe quatre heures par jour dans les transports. Pendant ce temps, elle ne peut plus faire la manche, son unique moyen de subsistance. Dans ces conditions, il n\u2019est plus question que Darius et Beti aillent \u00e0 l\u2019\u00e9cole.</p></span>"
+            }
+         },
+         {  
+            "date":"",
+            "media":{  
+               "url":"//uploads.knightlab.com/storymapjs/10fa10420e0de7aff8c346304986acb5/bidonville-s/_images/entree_ney.jpg",
+               "caption":"",
+               "credit":"L' entr\u00e9e du bidonville avant l'expulsion de novembre 2017"
+            },
+            "location":{  
+               "lat":48.89815410000001,
+               "line":true,
+               "lon":2.3493482000000085,
+               "zoom":1
+            },
+            "text":{  
+               "headline":"Retour Boulevard Ney, Paris",
+               "text":"<span><p><strong>Avril 2017 - Novembre 2017</strong></p><p>Deux mois apr\u00e8s l\u2019incendie, ils retrouvent le camp du boulevard Ney (75), reconstruit entre temps. Elena cuisine de nouveau et partage de grands repas avec les autres familles du platz. En ao\u00fbt, sa petite s\u0153ur, Nicoleta, arrive de Roumanie. La jeune femme de 18 ans est enceinte.</p><p> </p><p>\u00c0 la rentr\u00e9e, Darius retourne \u00e0 l\u2019\u00e9cole. Les yeux encore r\u00eaveurs, le petit gar\u00e7on plein de malice raconte son premier voyage scolaire :</p><p> </p><p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</p><p><span>\u00ab\u2009J<em>e suis all\u00e9e en colonie de vacances \u00e0 la montagne.\u2009</em>\u00bb</span></p><p> </p><p>En octobre, Adrian, le mari d\u2019Elena, est condamn\u00e9 \u00e0 neuf mois de prison au Havre pour vol et revente de ferraille en r\u00e9cidive. Sa femme raconte, en larmes, qu\u2019il n\u2018aurait pas eu le droit de lui t\u00e9l\u00e9phoner pendant les six premiers mois de sa d\u00e9tention.&nbsp;\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<em>\u00ab&nbsp;Je\nn\u2019ai pu le voir qu\u2019une seule fois&nbsp;\u00bb</em><em>,</em> explique la jeune femme qui, faute de moyens, ne peut se rendre au Havre :</p><p> </p></span>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><em>&nbsp;</em><em>\u00ab&nbsp;Il\nse sent abandonn\u00e9, il veut mourir.&nbsp;\u00bb</em></p>\n\n<p>En novembre, malgr\u00e9 la tr\u00eave hivernale et la mobilisation des associations, le platz est de nouveau expuls\u00e9. Cette fois, Elena reste jusqu\u2019au dernier moment dans l'espoir d'\u00eatre relog\u00e9e.&nbsp;<span>\u00ab&nbsp;<em>La police est arriv\u00e9e \u00e0 six heures du matin,\nquand on dormait. Ils criaient et frappaient aux portes pour nous r\u00e9veiller</em>.&nbsp;\u00bb&nbsp;</span>En quatri\u00e8me vitesse, la famille emballe ses quelques affaires et monte dans un bus mis en place par les autorit\u00e9s, pour une direction inconnue.<br></p>"
+            }
+         },
+         {  
+            "date":"",
+            "media":{  
+               "url":"//uploads.knightlab.com/storymapjs/10fa10420e0de7aff8c346304986acb5/bidonville-s/_images/appartcity.jpg",
+               "caption":"",
+               "credit":"L'Appart'City de Bobigny / Google Street View"
+            },
+            "location":{  
+               "lat":48.90739629999999,
+               "line":true,
+               "lon":2.4566227000000254,
+               "zoom":1
+            },
+            "text":{  
+               "headline":"Appart'city, Bobigny",
+               "text":"<span><p><strong>28 novembre 2017 - 4 d\u00e9cembre 2017</strong></p><p>Elena et sa famille sont relog\u00e9es dans un&nbsp;\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u00ab&nbsp;Appart\u2019City&nbsp;\u00bb\nde&nbsp;Bobigny (93). Les conditions s\u2019am\u00e9liorent.&nbsp;Ce n\u2019est pas loin de l\u2019\u00e9cole et du reste de la famille et ils peuvent cuisiner. La jeune femme touche enfin du doigt la vie qu\u2019elle esp\u00e9rait trouver en France.</p><p> </p><p>Mais cette parenth\u00e8se presque r\u00eav\u00e9e ne dure qu\u2019une semaine. Encore une fois, les familles sont d\u00e9plac\u00e9es.&nbsp;<span>\u00ab\u2009<em>Je ne sais pas pourquoi, du jour au\nlendemain, on ne pouvait plus rester\u2009</em>\u00bb</span>, d\u00e9clare-t-elle, l\u2019air encore perdu.</p><p> </p><p>En \u00e9change, on lui propose une place dans un centre d\u2019h\u00e9bergement fra\u00eechement construit dans Paris. Mais Elena a entendu dire que le centre ne dispose pas d\u2019eau chaude et qu\u2019il est envahi par les poux et les puces. Les \u00e9crans y seraient interdits et les enfants doivent rester enferm\u00e9s,&nbsp;\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<span>\u00ab\u2009<em>comme dans une prison</em></span>\u2009\u00bb&nbsp;, d\u00e9crit-elle.&nbsp;<span>\u00ab&nbsp;<em>On ne pouvait pas aller l\u00e0-bas !&nbsp;\u00bb</em>&nbsp;</span>&nbsp;La m\u00e8re de famille refuse la place.<br></p></span>"
+            }
+         },
+         {  
+            "date":"",
+            "media":{  
+               "url":"<iframe frameborder=\"0\" class=\"juxtapose\" width=\"100%\" height=\"465.36251709986317\" src=\"https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=fd2ad4d4-172d-11e8-b263-0edaf8f81e27\"></iframe>",
+               "caption":"",
+               "credit":"Pour voir l\u2019\u00e9volution du bidonville d\u00e9placez la barre au milieu de l\u2019image"
+            },
+            "location":{  
+               "lat":48.92786259999999,
+               "line":true,
+               "lon":2.3910946999999396,
+               "zoom":1
+            },
+            "text":{  
+               "headline":"Les Six-routes, La Courneuve",
+               "text":"<span><p><strong>D\u00e9cembre 2017</strong></p><p>Elena arrive alors au platz des Six-routes, un petit bosquet de La Courneuve (93) pr\u00e8s du grand bidonville qui l\u2019avait accueillie lors de son arriv\u00e9e en France, avenue Roger Salengro. Entour\u00e9e, elle souffle un peu.</p><p> </p><p>Sa petite s\u0153ur, Nicoleta &nbsp;accouche le 27 d\u00e9cembre d\u2019un enfant n\u00e9 pr\u00e9matur\u00e9. L\u2019hiver particuli\u00e8rement glacial a raison de leur installation. Aid\u00e9e par les associations, Elena s\u2019acharne pour trouver un plan au chaud :</p><p>\u00ab <i>J\u2019ai \u2009appel\u00e9 le 115 tous les jours jusqu\u2019\u00e0 avoir une place dans un h\u00f4tel. </i>\u00bb</p></span>"
+            }
+         },
+         {  
+            "date":"",
+            "media":{  
+               "url":"//uploads.knightlab.com/storymapjs/10fa10420e0de7aff8c346304986acb5/bidonville-s/_images/f1_aulney.jpg",
+               "caption":"",
+               "credit":""
+            },
+            "location":{  
+               "lat":48.95863900000001,
+               "line":true,
+               "lon":2.4658159000000524,
+               "zoom":12
+            },
+            "text":{  
+               "headline":"hotel F1, aulnay-sous-bois",
+               "text":"<p><strong>Mars 2018</strong></p><p>Elena est de retour \u00e0 Aulnay-Sous-Bois (93), dans le m\u00eame h\u00f4tel. Les r\u00e8gles y sont trop strictes \u00e0 son go\u00fbt :</p><p> </p><p><span>\u00ab <i>Je voulais garder au chaud le b\u00e9b\u00e9 de ma ni\u00e8ce qui dormait dehors, mais le g\u00e9rant a menac\u00e9 d\u2019expulser toute ma famille.</i> \u00bb</span><br></p><p> </p><p>Les associations ne peuvent rien faire.&nbsp;<span>\u00ab <em>L</em><span><em>es g\u00e9rants sont parfois plus tol\u00e9rants mais c\u2019est rare</em> \u00bb,</span></span>&nbsp;nous d\u00e9taille Nathalie Jantet du Secours Catholique. L'h\u00f4tel est loin des centres-villes et toujours sans cuisine :</p><p> </p><p><span>\u00ab <em>Sans frigo et sans plaque, on ne peut manger que des aliments froids et secs</em>. \u00bb </span><br></p><p> </p><p>Habitu\u00e9s \u00e0 se nourrir de poulet bouilli, Elena et ses enfants ne supportent pas cette nourriture et assurent tomber souvent malade. Pour cuisiner, mais aussi pour ne pas tourner entre quatre murs, elle pr\u00e9f\u00e8re passer ses journ\u00e9es au platz des&nbsp;Six-routes o\u00f9 son beau-fr\u00e8re lui a laiss\u00e9 une baraque. Elle l\u2019a am\u00e9nag\u00e9, une guirlande de tissus traverse la pi\u00e8ce, des tapis au sol recouvrent la terre, un po\u00eale est pos\u00e9 dans un coin et un grand lit tr\u00f4ne au milieu.</p><p> </p><p>D\u00e9but mars, Lorenza, sa m\u00e8re, vient chercher la derni\u00e8re fille d'Elena, Ana, 4 ans, pour la ramener dans sa maison en Roumanie. Elena ne peut plus s\u2019en occuper. \u00c9mue, elle est tout de m\u00eame heureuse de retrouver sa m\u00e8re. Cinq jours pour rattraper les cinq ann\u00e9es pass\u00e9es sans la voir. &nbsp;</p><p> </p><p>Aujourd\u2019hui, Elena esp\u00e8re trouver un travail et, avec l\u2019aide d\u2019associations, elle fait toutes les d\u00e9marches possibles pour obtenir un logement stable. Gr\u00e2ce \u00e0 une adresse fixe,&nbsp;\u00ab <i>Adrian sortira de prison plus rapidement, les petits pourront retourner \u00e0 l\u2019\u00e9cole</i> \u00bb. C\u2019est aussi le seul moyen de r\u00e9unir ses cinq enfants. Elle perd parfois espoir et r\u00e9p\u00e8te :</p><span><p> </p><p>\u00ab\u2009<i>Depuis 2011 j\u2019essaie. Depuis 2011\u2026</i>\u2009\u00bb</p><p> </p><div><span><br></span></div></span>"
+            }
+         },
+         {  
+            "date":"",
+            "media":{  
+               "url":"",
+               "caption":"",
+               "credit":""
+            },
+            "location":{  
+               "lat":48.85661400000001,
+               "line":true,
+               "lon":2.3522219000000177,
+               "zoom":11,
+               "use_custom_marker":false
+            },
+            "background":{  
+
+            },
+            "text":{  
+               "headline":"le cas d'elena n'est pas isol\u00e9",
+               "text":"<span><p>Aujourd'hui, en France, selon la d\u00e9l\u00e9gation interminist\u00e9rielle \u00e0 l\u2019h\u00e9bergement et \u00e0 l\u2019acc\u00e8s au logement des personnes sans-abris ou mal log\u00e9es (DIHAL),14.800 personnes - dont 3.567 mineurs - vivent dans 571 bidonvilles et grands squats (d\u00e9cembre 2017). La majorit\u00e9 d'entre eux r\u00e9sident en \u00cele-de-France. Des chiffres stables depuis les premi\u00e8res estimations de 2012.</p><p> </p><p>En France, il y a en moyenne une expulsion de campement tous les trois jours. Pour les associations, ces expulsions \u00e0 r\u00e9p\u00e9tition ne font que d\u00e9placer le probl\u00e8me et n'offrent pas de solutions p\u00e9rennes contre le mal-logement, pour l'int\u00e9gration et la sant\u00e9 des habitants. En effet, les destructions et d\u00e9placements successifs de camps emp\u00eachent un suivi r\u00e9gulier et personnalis\u00e9 par les services sociaux.</p><p> </p><p></p><p><span>La moiti\u00e9 des personnes vivant en bidonville en France n'a ni acc\u00e8s \u00e0 l'aide m\u00e9dicale d'\u00c9tat ni \u00e0 une couverture m\u00e9dicale. Ce qui explique en partie leur esp\u00e9rance de vie de seulement 49 ans &nbsp;- selon le S<a href=\"https://www.secours-catholique.org/ \" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://www.secours-catholique.org/ \">ecours Catholique </a>- contre 82 ans pour la moyenne des Fran\u00e7ais.&nbsp;</span></p><p><span>D'apr\u00e8s l'association <a href=\" http://www.trajectoires-asso.fr/ \" target=\"_blank\" rel=\"nofollow\">Trajectoires</a>, 51% des enfants entre 6 et 16 ans ne sont pas scolaris\u00e9s, et 30% ne sont jamais all\u00e9s \u00e0 l'\u00e9cole.</span></p><p><br></p><p>____________________________________</p><p><br></p><p><i>Laure Dandolo, Marion Vanmansart, Eva Qu\u00e9m\u00e9r\u00e9</i></p><p><i>Illustration de Lucien Coycault.</i></p><p></p><p><span><i>Ce projet a re\u00e7u le premier prix du concours Google newslab 2018 en partenariat avec StreetPress.</i></span></p><p><br></p></span>"
+            }
+         }
+      ],
+      "map_type":"stamen:toner-lite",
+      "call_to_action_text":"",
+      "map_as_image":false,
+      "map_subdomains":""
+   },
+   "font_css":"stock:pt"
+}
