@@ -1,0 +1,9 @@
+person:
+  - name: Francois Corbel
+    photo: /images/team.jpg
+    position: Game Enthousiast
+    website: www.francoiscorbel.com
+  - name: Lucien Coycault
+    photo: /images/blog.jpg
+    position: Graphic Design
+    website: www.luciencoycault.com
