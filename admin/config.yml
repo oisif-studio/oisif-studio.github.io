@@ -17,3 +17,6 @@ collections:
       - {label: "Titre", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mma"}
       - {label: "Excerpt", name: "excerpt", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+    meta:
+      - {label: "SEO Description", name: "description", widget: "text"}
