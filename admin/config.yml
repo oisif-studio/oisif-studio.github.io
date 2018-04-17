@@ -10,7 +10,7 @@ media_folder: "images"
 collections:
   - name: "articles"
     label: "article"
-    folder: "_posts"
+    folder: "_posts/blog"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields: # The fields for each document, usually in front matter
