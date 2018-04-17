@@ -1,20 +1,18 @@
 ---
-title: Video Post Test
-date: 2014-06-01 03:14:00 Z
-categories:
-- articles
-tags:
-- video
-modified: 
-excerpt: A post with a YouTube video.
-ads: false
+layout: article
+title: "Video Post Test"
+date: 2014-05-31T23:14:02-04:00
+modified:
+categories: articles
+excerpt: "A post with a YouTube video."
+tags: [video]
+ads: false 
 image:
   feature: blog.jpg
   teaser: blog.jpg
-layout: article
 ---
 
-Kikoo. Here's a sample video to test FitVid.js
+Here's a sample video to test FitVid.js
 
 If this is working correctly the video should fill the main content container.
 

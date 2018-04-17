@@ -1,7 +1,7 @@
 ---
-title: Projects
-permalink: "/projects"
-layout: default
+layout: default 
+permalink: /projects
+title: "Projects"
 image:
   feature: projects.jpg
 ---

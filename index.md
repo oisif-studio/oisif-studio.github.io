@@ -1,7 +1,7 @@
 ---
-title: Home
-permalink: "/"
-layout: home
+layout: home 
+permalink: /
+title: "Home"
 image:
   feature: home.jpg
 ---
