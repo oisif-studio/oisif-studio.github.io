@@ -34,7 +34,7 @@ If this is working correctly the video should fill the main content container.
 
 <script>
 // storymap_data can be an URL or a Javascript object
-var storymap_data = 'eva.json';
+var storymap_data = '//www.oisif.fr/eva.json';
 
 // certain settings must be passed within a separate options object
 var storymap_options = {};
