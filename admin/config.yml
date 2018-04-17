@@ -25,6 +25,7 @@ collections:
 
   - label: "Settings"
     name: "settings"
+    delete: false
     files:
       - label: "Team"
         name: "team"
