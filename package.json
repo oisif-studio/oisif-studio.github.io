@@ -1,10 +1,10 @@
 {
-  "name": "skinny-bones-jekyll",
+  "name": "oisif-jekyll",
   "version": "1.0.0",
   "private": true,
-  "description": "A Jekyll starter site",
-  "author": "Michael Rose <michael@mademistakes.com>",
-  "homepage": "http://mademistakes.com/",
+  "description": "A creative content website",
+  "author": "Francois Corbel <francois.corbel@gmail.com>",
+  "homepage": "http://francoiscorbel.com",
   "license": "The MIT License (MIT)",
   "devDependencies": {
     "grunt": "~0.4.2",
