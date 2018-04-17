@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: jamstatic/jamstatic-fr
+  repo: oisif-studio/oisif-studio.github.io
   branch: master
 
 publish_mode: editorial_workflow
