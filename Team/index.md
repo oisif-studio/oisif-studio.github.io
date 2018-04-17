@@ -1,7 +1,7 @@
 ---
-layout: default 
-permalink: /team
-title: "Team"
+title: Team
+permalink: "/team"
+layout: default
 image:
   feature: team.jpg
 ---

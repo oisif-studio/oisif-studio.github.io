@@ -1,7 +1,7 @@
 ---
-layout: default 
-permalink: /blog
-title: "Blog"
+title: Blog
+permalink: "/blog"
+layout: default
 image:
   feature: blog.jpg
 ---
