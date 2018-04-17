@@ -34,7 +34,7 @@ If this is working correctly the video should fill the main content container.
 
 <script>
 // storymap_data can be an URL or a Javascript object
-var storymap_data = 'https://uploads.knightlab.com/storymapjs/10fa10420e0de7aff8c346304986acb5/bidonville-s/draft.json';
+var storymap_data = 'eva.json';
 
 // certain settings must be passed within a separate options object
 var storymap_options = {};
