@@ -17,7 +17,11 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "article"}
       - {label: "Category", name: "category", widget: "hidden", default: "article"}
       - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mma"}
-      - {label: "Tags", name: "tags", widget: "string"}
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        fields:
+          - {label: "Tag", name: "tag", widget: "string"}
       - {label: "Titre", name: "title", widget: "string"}
       - {label: "Excerpt", name: "excerpt", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
