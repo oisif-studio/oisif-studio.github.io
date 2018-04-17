@@ -38,7 +38,11 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "project"}
       - {label: "Category", name: "category", widget: "hidden", default: "project"}
       - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mma"}
-      - {label: "Tags", name: "tags", widget: "string"}
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        fields:
+          - {label: "Tag", name: "tag", widget: "string"}
       - {label: "Titre", name: "title", widget: "string"}
       - {label: "Excerpt", name: "excerpt", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
@@ -54,7 +58,11 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "resource"}
       - {label: "Category", name: "category", widget: "hidden", default: "resource"}
-      - {label: "Tags", name: "tags", widget: "string"}
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        fields:
+          - {label: "Tag", name: "tag", widget: "string"}
       - label: "Resource"
         name: "resource"
         widget: "list"
