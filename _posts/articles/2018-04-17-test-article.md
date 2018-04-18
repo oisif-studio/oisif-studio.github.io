@@ -7,5 +7,6 @@ tags:
 title: Test Article
 excerpt: No need
 image: /images/home.jpg
+author: francois
 ---
 Test

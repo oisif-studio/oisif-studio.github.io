@@ -1,19 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/articles/video-post-test/</loc>
-<lastmod>2014-06-01T05:14:02+02:00</lastmod>
+<loc>/project/test-project/</loc>
+<lastmod>2018-04-17T21:09:00+00:00</lastmod>
+</url>
+<url>
+<loc>/article/test-article/</loc>
+<lastmod>2018-04-17T21:08:00+00:00</lastmod>
 </url>
 <url>
 <loc>/projects</loc>
 </url>
 <url>
-<loc>/blog</loc>
+<loc>/resources</loc>
+</url>
+<url>
+<loc>/articles</loc>
 </url>
 <url>
 <loc>/team</loc>
 </url>
 <url>
 <loc>/</loc>
+</url>
+<url>
+<loc>/admin/index.html</loc>
+<lastmod>2018-04-17T03:46:42+00:00</lastmod>
 </url>
 </urlset>

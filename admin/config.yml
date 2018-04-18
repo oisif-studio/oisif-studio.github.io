@@ -77,11 +77,16 @@ collections:
         name: "team"
         file: "_data/team.yml"
         fields:
-          - label: "Persons"
-            name: "person"
+          - label: "People"
+            name: "people"
             widget: "list"
             fields:
-              - {label: "Photo", name: "photo", widget: "image"}
-              - {label: "Name", name: "name", widget: "string"}
-              - {label: "Position", name: "position", widget: "string"}
-              - {label: "Website", name: "website", widget: "string"}
+            - {label: "Pseudo", name: "pseudo", widget: "string"}
+            - label: "data"
+              name: "data"
+              widget: "object"
+              fields:
+                - {label: "Avatar", name: "avatar", widget: "image"}
+                - {label: "Name", name: "name", widget: "string"}
+                - {label: "Position", name: "position", widget: "string"}
+                - {label: "Website", name: "web", widget: "string"}
