@@ -5,3 +5,9 @@ people:
       position: Developper
       web: www.francoiscorbel.com
     pseudo: francois
+  - data:
+      avatar: /images/team.jpg
+      name: Lucien Coycault
+      position: Graphic Design
+      web: wwww.luciencoycault.fr
+    pseudo: lucien
