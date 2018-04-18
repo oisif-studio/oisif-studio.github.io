@@ -1,0 +1,7 @@
+people:
+  - data:
+      avatar: /images/team.jpg
+      name: Francois Corbel
+      position: Developper
+      web: www.francoiscorbel.com
+    pseudo: francois
