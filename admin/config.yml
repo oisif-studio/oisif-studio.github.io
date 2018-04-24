@@ -85,28 +85,22 @@ collections:
   - label: "Settings"
     name: "settings"
     files:
-      - label: "Test"
-        name: "test"
-        file: "_data/tags.yml"
+      - label: "Tags"
+        name: "tags"
+        file: "_data/tags-list.yml"
         fields:
-          - label: "test"
-            widget: "object"
+          - label: "Tags"
+            widget: "list"
             fields:
-              - {label: "Avatar", name: "avatar", widget: "image"}
               - {label: "Name", name: "name", widget: "string"}
-              - {label: "Position", name: "position", widget: "string"}
-              - {label: "Website", name: "web", widget: "string"}
       - label: "Team"
         name: "team"
-        file: "_data/team.yml"
+        file: "_data/authors-list.yml"
         fields:
-          - label: "test"
-            widget: "object"
+          - label: "Pseudos"
+            widget: "list"
             fields:
-              - {label: "Avatar", name: "avatar", widget: "image"}
-              - {label: "Name", name: "name", widget: "string"}
-              - {label: "Position", name: "position", widget: "string"}
-              - {label: "Website", name: "web", widget: "string"}
+              - {label: "Pseudo", name: "name", widget: "string"}
           # - label: "People"
           #   name: "people"
           #   widget: "list"
