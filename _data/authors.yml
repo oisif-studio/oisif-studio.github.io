@@ -1,10 +1,11 @@
-francois:
-  name: Francois Corbel
-  avatar: /images/team.jpg
-  position: Game Enthousiast
-  web: www.francoiscorbel.com
-lucien:
-  name: Lucien Coycault
-  avatar: /images/blog.jpg
-  position: Graphic Design
-  web: www.luciencoycault.com
+- team:
+  - francois:
+      avatar: /images/team.jpg
+      name: Francois Corbel
+      position: Developper
+      web: www.francoiscorbel.com
+  - lucien:
+      avatar: /images/team.jpg
+      name: Lucien Coycault
+      position: Graphic Design
+      web: wwww.luciencoycault.fr

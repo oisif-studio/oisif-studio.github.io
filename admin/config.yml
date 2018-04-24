@@ -70,23 +70,53 @@ collections:
           - {label: "Url Name", name: "name", widget: "string"}
           - {label: "Url Link", name: "link", widget: "string"}
 
+  # - label: "Team"
+  #   name: "team"
+  #   file: "_data/team.yml"
+  #   fields:
+  #     - label: "test"
+  #       widget: "object"
+  #       fields:
+  #         - {label: "Avatar", name: "avatar", widget: "image"}
+  #         - {label: "Name", name: "name", widget: "string"}
+  #         - {label: "Position", name: "position", widget: "string"}
+
+
   - label: "Settings"
     name: "settings"
     files:
+      - label: "Test"
+        name: "test"
+        file: "_data/tags.yml"
+        fields:
+          - label: "test"
+            widget: "object"
+            fields:
+              - {label: "Avatar", name: "avatar", widget: "image"}
+              - {label: "Name", name: "name", widget: "string"}
+              - {label: "Position", name: "position", widget: "string"}
+              - {label: "Website", name: "web", widget: "string"}
       - label: "Team"
         name: "team"
         file: "_data/team.yml"
         fields:
-          - label: "People"
-            name: "people"
-            widget: "list"
+          - label: "test"
+            widget: "object"
             fields:
-            - {label: "Pseudo", name: "pseudo", widget: "string"}
-            - label: "data"
-              name: "data"
-              widget: "object"
-              fields:
-                - {label: "Avatar", name: "avatar", widget: "image"}
-                - {label: "Name", name: "name", widget: "string"}
-                - {label: "Position", name: "position", widget: "string"}
-                - {label: "Website", name: "web", widget: "string"}
+              - {label: "Avatar", name: "avatar", widget: "image"}
+              - {label: "Name", name: "name", widget: "string"}
+              - {label: "Position", name: "position", widget: "string"}
+              - {label: "Website", name: "web", widget: "string"}
+          # - label: "People"
+          #   name: "people"
+          #   widget: "list"
+          #   fields:
+          #   - {label: "Pseudo", name: "pseudo", widget: "string"}
+          #   - label: "data"
+          #     name: "data"
+          #     widget: "object"
+          #     fields:
+          #       - {label: "Avatar", name: "avatar", widget: "image"}
+          #       - {label: "Name", name: "name", widget: "string"}
+          #       - {label: "Position", name: "position", widget: "string"}
+          #       - {label: "Website", name: "web", widget: "string"}
