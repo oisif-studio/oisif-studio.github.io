@@ -1,21 +1,16 @@
 # Site navigation links
 
-- title: Articles
-  url: /articles
+- title: Blog
+  url: blog
   excerpt: All news about oisif people.
   image: blog.jpg
 
 - title: Projects
-  url: /projects
+  url: projects
   excerpt: All finished project.
   image: project.jpg
 
 - title: Team
-  url: /team
-  excerpt: Meet the team of enthousiasts.
-  image: team.jpg
-
-- title: Resources
-  url: /resources
-  excerpt: Read the same infos as us.
+  url: team
+  excerpt: Meet the team of enthousiasts
   image: team.jpg
