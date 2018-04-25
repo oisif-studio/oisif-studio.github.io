@@ -22,7 +22,7 @@ collections:
         widget: "list"
         fields:
           - {label: "Tag", name: "tag", widget: "string"}
-      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Excerpt", name: "excerpt", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
@@ -85,7 +85,7 @@ collections:
   - label: "Settings"
     name: "settings"
     files:
-      - label: "Tags"
+      - label: "Tags list"
         name: "tags"
         file: "_data/tags-list.yml"
         fields:
@@ -93,8 +93,14 @@ collections:
             widget: "list"
             fields:
               - {label: "Name", name: "name", widget: "string"}
-      - label: "Team"
-        name: "team"
+              - label: "Project Title"
+                name: "project"
+                widget: "relation"
+                collection: "project"
+                searchFields: ["title"]
+                valueField: "title"
+      - label: "Authors list"
+        name: "pseudos"
         file: "_data/authors-list.yml"
         fields:
           - label: "Pseudos"
