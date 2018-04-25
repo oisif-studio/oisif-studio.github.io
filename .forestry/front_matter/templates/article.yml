@@ -1,12 +1,14 @@
 ---
+pages:
+- _posts/blog/test.md
 hide_body: false
 is_partial: false
 fields:
 - name: layout
   label: Layout
   type: text
-  hidden: false
-  default: ''
+  hidden: true
+  default: article
 - name: title
   label: Title
   type: text
