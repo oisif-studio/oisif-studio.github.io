@@ -1,0 +1,50 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: ''
+- name: excerpt
+  label: Excerpt
+  type: text
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: ''
+- name: image
+  label: Image
+  type: field_group
+  fields:
+  - name: feature
+    label: Feature
+    type: text
+    hidden: false
+    default: ''
+  - name: teaser
+    label: Teaser
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
